@@ -1,12 +1,6 @@
-## My Project
+## QASP: Query-Adaptive Robust Vector Search Policy
 
-TODO: Fill this README out!
-
-Be sure to:
-
-* Change the title in this README
-* Edit your repository description on GitHub
-* Write in your license below and create a LICENSE file
+⚠️ *This repository is actively being developed for ICDE 2027.*
 
 ## Security
 
@@ -14,5 +8,5 @@ See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more inform
 
 ## License
 
-This library is licensed under the LICENSE NAME HERE License.
+This library is licensed under the Creative Commons Attribution-NonCommercial 4.0 International Public License.
 
